@@ -4,6 +4,9 @@
 Este projeto foi desenvolvido como parte do curso CS50 de Harvard. O objetivo era recriar a página de pesquisa do Google, implementando funcionalidades básicas de pesquisa.
 
 
+**A baixo temos o Link com a resolução do projeto fique a vontade para visitar a pagina**
+
+
 [Live Solution]( https://murdock021.github.io/Project-Google/) ✔️
 
 
