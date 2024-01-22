@@ -1,6 +1,9 @@
 # Recriação da Página de Pesquisa do Google
 
+
 Este projeto foi desenvolvido como parte do curso CS50 de Harvard. O objetivo era recriar a página de pesquisa do Google, implementando funcionalidades básicas de pesquisa.
+[Live Solution]( https://murdock021.github.io/Project-Google/) ✔️
+
 
 ## Descrição do Projeto
 
