@@ -28,7 +28,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Como Executar o Projeto
 
-Para visualizar o projeto, basta abrir o arquivo `index.html` em um navegador da web. Certifique-se de ter uma conexão com a internet para simular a funcionalidade de pesquisa.
+Para visualizar o projeto, basta abrir o arquivo `index.html` em um navegador da web. Certifique-se de ter uma conexão com a internet para simular a funcionalidade de pesquisa ou clicando no link a baixo: 
+
+[Live Solution]( https://murdock021.github.io/Project-Google/) ✔️
 
 ```bash
 open index.html
